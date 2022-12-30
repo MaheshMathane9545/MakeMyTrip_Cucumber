@@ -1,0 +1,7 @@
+<suite name="MakeMyTrip Suite">
+	<test name="Flight Ticket Booking">
+		<classes>
+			<class name="testrunner.Flight"></class>
+		</classes>
+	</test>
+</suite>
